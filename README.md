@@ -16,7 +16,7 @@ The steps written in high level here that needs to be done to build our predicti
 4. Validate the model.
 5.  Test the model on test data set
 
-In addition, an html file titled MarketingMix is also attached that contains the results of all detailed codes performed in R. 
+In addition, a pdf file with the following link https://drive.google.com/file/d/0B7PO2UZh7eKmT2xjUElYMTdYbHc/view?usp=sharingtitled contains the data exploration and data preprartion codes performed in R. 
 
 Copyright www.datasciencemojo.com
 
